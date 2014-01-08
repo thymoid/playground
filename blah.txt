@@ -2,4 +2,5 @@ Writing a garbage file to see if tenXer counts both the original and amended com
 
 Making a few changes, this time won't automatically merge the pull request.
 
+This time amending the commit for real!
 
