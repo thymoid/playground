@@ -1,0 +1,2 @@
+Writing a garbage file to see if tenXer counts both the original and amended commit!
+
